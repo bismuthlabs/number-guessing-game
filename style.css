@@ -12,6 +12,8 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 input, .start-btn {
